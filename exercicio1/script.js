@@ -15,7 +15,7 @@ const fruta3 = {
         preço: 5.99,
         disponibilidade: true}    
 
-sacolao.push[fruta1,fruta2,fruta3]
+sacolao.push({fruta1,fruta2,fruta3})
 
 console.log(sacolao)
 
